@@ -1,0 +1,11 @@
+# Go build/test artifacts
+.gocache/
+*.exe
+*.test
+*.out
+coverage.out
+
+# Local environment
+.env
+.env.*
+!.env.example
